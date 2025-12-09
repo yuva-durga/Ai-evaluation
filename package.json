@@ -1,0 +1,21 @@
+{
+    "name": "time-tracker-ai-app",
+    "version": "1.0.0",
+    "description": "AI-Powered Time Tracking & Daily Analytics Dashboard",
+    "main": "index.js",
+    "scripts": {
+      "start": "npx http-server public -p 8080",
+      "deploy": "gh-pages -d public"
+    },
+    "keywords": [
+      "time-tracker",
+      "analytics",
+      "firebase"
+    ],
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+      "gh-pages": "^6.0.0",
+      "http-server": "^14.1.1"
+    }
+  }
