@@ -4,9 +4,9 @@ A web app to track daily activities and view time analytics.
 
 ## 🔗 Links
 
-**Repository:** [https://github.com/YOUR_USERNAME/time-tracker-ai-app]()
+**Repository:** https://github.com/yuva-durga/Ai-evaluation
 
-**Live Demo:** [https://YOUR_USERNAME.github.io/time-tracker-ai-app]( https://yuva-durga.github.io/Ai-evaluation/)
+**Live Demo:** https://yuva-durga.github.io/Ai-evaluation/
 ## ✨ Features
 
 - User authentication
